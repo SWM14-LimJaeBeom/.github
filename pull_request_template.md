@@ -1,6 +1,6 @@
 ## What is this PR? 🔍
 
-- [Jira 티켓]()
+- [TWM-]()
 
 ## Changed 📝
 
