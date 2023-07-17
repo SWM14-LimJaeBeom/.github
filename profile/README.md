@@ -13,11 +13,11 @@ Our mission is to help people who are not familiar with the ideation process.
 
 ## 👨🏻‍💻 Members
 
-- [YeonJi Lim (Team Leader)](https://github.com/orgs/SWM14-LimJaeBeom/people/Yeonji-Lim)
+- [YeonJi Lim (Team Leader)](https://github.com/Yeonji-Lim)
   - Backend Development
-- [JaeHeon Sim](https://github.com/orgs/SWM14-LimJaeBeom/people/Jaeheon-Sim)
+- [JaeHeon Sim](https://github.com/Jaeheon-Sim)
   - Frontend Developemnt
-- [JongBeom Lee](https://github.com/orgs/SWM14-LimJaeBeom/people/devleejb)
+- [JongBeom Lee](https://github.com/devleejb)
   - FullStack Developemnt
 
 ## 📮 Contacts
