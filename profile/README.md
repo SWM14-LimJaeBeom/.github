@@ -16,9 +16,9 @@ Our mission is to help people who are not familiar with the ideation process.
 - [YeonJi Lim (Team Leader)](https://github.com/Yeonji-Lim)
   - Backend Development
 - [JaeHeon Sim](https://github.com/Jaeheon-Sim)
-  - Frontend Developement
+  - Frontend Development
 - [JongBeom Lee](https://github.com/devleejb)
-  - FullStack Developement
+  - FullStack Development
 
 ## 📮 Contacts
 
