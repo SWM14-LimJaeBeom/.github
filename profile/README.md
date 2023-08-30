@@ -8,8 +8,7 @@ Our mission is to help people who are not familiar with the ideation process.
 
 ## 🖥 Services
 
-- Coming Soon!
-  - Will be released in Aug, 2023!
+https://thinkwithme.io/
 
 ## 👨🏻‍💻 Members
 
