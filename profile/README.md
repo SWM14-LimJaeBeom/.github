@@ -7,8 +7,9 @@ SW Maestro 14th, Team LimJaeBeom
 Our mission is to help people who are not familiar with the ideation process.
 
 ## 🖥 Services
-
+![로고with킹커벨](https://github.com/SWM14-LimJaeBeom/.github/assets/57888020/fc45c95a-0844-4735-837b-0d85ffacf30e)
 https://thinkwithme.io/
+
 
 ## 👨🏻‍💻 Members
 
